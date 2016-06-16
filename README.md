@@ -11,3 +11,9 @@ I'm using libraries:
 - ButterKnife 8 http://jakewharton.github.io/butterknife/
 - Picasso http://square.github.io/picasso/
 
+
+<img src="/screens/screen_1.png" height="450">
+<img src="/screens/screen_2.png" height="450">
+<img src="/screens/screen_3.png" height="450">
+
+

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WikiaApi</string>
+    <string name="download_problem">Błąd połączenia</string>
+    <string name="try_again">Ponów</string>
+    <string name="download_success">Kategorie pobrane</string>
+    <string name="download_wikis_success">Pobrano artykuły</string>
+    <string name="download_progress">Pobieranie</string>
+</resources>
